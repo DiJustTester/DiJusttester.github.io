@@ -2,7 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4af5c06c-5f95-4b43-8c32-03a88e112782" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/RobotoCondensed-Regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/RobotoCondensed-Regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/RobotoCondensed-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/RobotoCondensed-Regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto/RobotoCondensed-Regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/20.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/24.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/25.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/26.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/footer_images/9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/kingSlot.mp4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/logo_porno.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sidebar/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sidebar/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sidebar/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sidebar/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/soc/facebook.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/soc/google-plus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/soc/instagram.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/soc/odnoklassniki.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/soc/twitter.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/soc/vk.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sprite/arrow_up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sprite/ic-h.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/sprite/icon-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/underwear.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/underwear2.svg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/libs.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/main.min.css" afterPath="$PROJECT_DIR$/css/main.min.css" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Bold/OpenSans-Bold.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Bold/OpenSans-Bold.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Bold/OpenSans-Bold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Bold/OpenSans-Bold.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Bold/OpenSans-Bold.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Regular/OpenSans-Regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Regular/OpenSans-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Regular/OpenSans-Regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Regular/OpenSans-Regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/VollkornSC/vollkornsc-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/VollkornSC/vollkornsc-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/VollkornSC/vollkornsc-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/VollkornSC/vollkornsc-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/bg-patern/skullsblack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/bikerGirl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/bonuses/777Original.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/bonuses/King.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/bonuses/NetGame.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/bonuses/ReelEmperor.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/create1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/favicon/apple-touch-icon-114x114.png" afterPath="$PROJECT_DIR$/image/favicon/apple-touch-icon-114x114.png" />
+      <change beforePath="$PROJECT_DIR$/image/favicon/apple-touch-icon-72x72.png" afterPath="$PROJECT_DIR$/image/favicon/apple-touch-icon-72x72.png" />
+      <change beforePath="$PROJECT_DIR$/image/favicon/apple-touch-icon.png" afterPath="$PROJECT_DIR$/image/favicon/apple-touch-icon.png" />
+      <change beforePath="$PROJECT_DIR$/image/favicon/favicon.ico" afterPath="$PROJECT_DIR$/image/favicon/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/image/footer_partners/endorphina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/footer_partners/igrosoft.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/footer_partners/microgaming.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/footer_partners/netent.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/footer_partners/thunderkick.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/games/9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/logo-onlinecasinogamesnow-mobile.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/logo-onlinecasinogamesnow.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/news/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/playGame/panther-moon-292x51.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/playGame/playGame.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/popular/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/popular/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/popular/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/popular/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/popular/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/popular/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/rating_half-rtl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/rating_half.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/rating_off.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/rating_on.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/rating_over.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/rotate.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/slides/scrine1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/smartSearch/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite.png" afterPath="$PROJECT_DIR$/image/sprite.png" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/decore-cube.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-close-bonus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-endorphina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-evoplay.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-gaminator.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-igrosoft.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-megajack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-microgaming.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-netent.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-playson.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-playtech.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-push-gaming.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-thunderkick.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/sprite/icon-yggdrasil.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/bg_fire.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/bikeFront.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-biker.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-bonuses.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-crow-ancor.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-crow.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-electric-guitar.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-electric-guitar2.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-news.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/icon-rock-skull.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/svg_icons/pistons-cross.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/symbol.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/common.min.js" afterPath="$PROJECT_DIR$/js/common.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/libs.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libs/svg-morpheus.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +167,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="87" lean-forward="false" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+            <state relative-caret-position="980">
+              <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -130,12 +281,12 @@
       <workItem from="1539866778954" duration="1467000" />
       <workItem from="1539940247523" duration="970000" />
       <workItem from="1540197326746" duration="1006000" />
-      <workItem from="1540384211915" duration="2000" />
+      <workItem from="1540384211915" duration="134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3445000" />
+    <option name="totallyTimeSpent" value="3577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -198,8 +349,8 @@
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="87" lean-forward="false" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        <state relative-caret-position="980">
+          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="79" />
           <folding />
         </state>
       </provider>
